@@ -6,4 +6,4 @@ https://netflix-clone-vivee.web.app/
 -> API used: tmdb
 -> React Library's : react-youtube, movie-trailer
 
-##Hosted on Firebase https://netflix-clone-vivee.web.app/
+## Hosted on Firebase https://netflix-clone-vivee.web.app/
